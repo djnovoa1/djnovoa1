@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on getting my Bachelors degree in Computer Science
-- 🌱 I’m currently learning about Computer Systems Principles, Assembly, and Computation
+- 🌱 I’m currently learning about Carbon Intelligent Computing Systems
 - 👯 I’m looking to collaborate on any projects!
 - 🤔 I’m looking for help with internship search
 - 📫 How to reach me: dnovoa@umass.edu / djnovoa2005@gmail.com
